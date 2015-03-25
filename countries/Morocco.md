@@ -1,4 +1,6 @@
 ##Morocco
+
+![Flag of Morocco] (https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/mo-lgflag.gif)
 ## population
 	32,987,206 (July 2014 est.)	
 
