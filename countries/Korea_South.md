@@ -1,14 +1,16 @@
 ##Korea_South
 ## population
-
+50.22 million
 
 ## capital
+Seoul
 
  
-## official language
-
+## of
+official language
+Korean
 
 ## interesting trivia
-
+Wonderful k-pop music
 
 
