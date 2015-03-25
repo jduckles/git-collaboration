@@ -9,4 +9,4 @@ Beijing
 Standard Chinese
 
 ## interesting trivia
-One of the worlds fastest growing ecomomies
+One of the worlds fastest growing economies
