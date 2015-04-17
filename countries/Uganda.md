@@ -1,14 +1,14 @@
 ##Uganda
-## population
+## population: 30 million
 
 
-## capital
+## capital: Kampala
 
  
-## official language
+## official language: English, Baganda
 
 
-## interesting trivia
+## interesting trivia: Same sex relationships is illegal
 
 
 
