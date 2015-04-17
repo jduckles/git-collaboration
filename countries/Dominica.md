@@ -1,15 +1,18 @@
-##Dominica
+Dominica
 
-## population
-Population 72,301 (2014)
+population
 
-## capital
-Capital is Roseau
- 
-## official language
-The official language is English
+72,003
 
-## interesting trivia
-Dominica is very mountainous
+capital
 
+Roseau
+
+official language
+
+English
+
+interesting trivia
+
+Has the world's second-largest hot spring called Boiling Lake
 
