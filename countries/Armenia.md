@@ -1,6 +1,6 @@
 ##Armenia
 ## population
-3,018,854
+3,018,854 (as of 2015 per Wikipedia)
 
 ## capital
 Yerevan
