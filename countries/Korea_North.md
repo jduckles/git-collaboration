@@ -9,8 +9,8 @@ Pyongyang
 Korean
 
 ## interesting trivia
-Communist State with personality cult
-Very restricted with numerous human rights abuses
-Despotic leader with bad haircut and strange fascination with Dennis Rodman
+Communist State with personality cult.
+Very restricted with numerous human rights abuses.
+Despotic leader with bad haircut and strange fascination with Dennis Rodman.
 
 
