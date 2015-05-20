@@ -1,14 +1,14 @@
 ##Nigeria
-## population
+## The population of Nigeria was estimated to be 174,507,539 as of 2013.
 
 
-## capital
+## The capital is Abuja.
 
  
-## official language
+## The official language of Nigeria is English.
 
 
-## interesting trivia
+## One piece of interesting trivia about Nigeria is that its name was taken from the Niger River that runs through it.
 
 
 
