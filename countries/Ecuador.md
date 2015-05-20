@@ -9,8 +9,8 @@ Quito
 Spanish
 
 ## interesting trivia
-Galapagos Islands are part of the landscape of Ecuador. These islands 
-are where Charles Darwin noticed the diversity of species and began to study 
+Galapagos Islands belongs to Ecuador. In these islands, Charles 
+Darwin noticed the diversity of species and began to study 
 evolution.
 
 
