@@ -9,7 +9,7 @@ London
 English
 
 ## interesting trivia
-Composed of four nations: England, Scotland, Wales and Northern Ireland
+Composed of four nations: England, Scotland, Wales and Northern Ireland.
 Wales and Scotland have their own languages: Gaelic and Welsh.
 Queen Victoria is the current longest reigning monarch. 
 Cornish Pasties are yummy.
