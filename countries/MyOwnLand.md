@@ -1,14 +1,12 @@
-##India
+##MyOwnLand
 ## population
-130 million
+100
 
 ## capital
-New Delhi
+SW	
  
 ## official language
-Hindi
+English	
 
 ## interesting trivia
-No comment
-
-
+A lot
