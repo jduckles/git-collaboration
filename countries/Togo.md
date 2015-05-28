@@ -1,14 +1,14 @@
-##Togo
-## population
+## Togo
+## 7154237
 
 
-## capital
+## Lome
 
  
-## official language
+## French
 
 
-## interesting trivia
+## Achieved independence from France in 1960
 
 
 
