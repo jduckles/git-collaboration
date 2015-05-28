@@ -1,14 +1,17 @@
 ##Sri_Lanka
-## population
+## population 
 
+20 million
 
-## capital
+## capital 
 
+Sri Jayawardanapura
  
-## official language
+## official language 
 
+Sinhala
 
-## interesting trivia
-
+## interesting trivia 
+it is an island located in Indian Ocean
 
 
