@@ -1,14 +1,14 @@
 ##Norway
-## population
+## population - 5,136,700
 
 
-## capital
+## capital - Oslo
 
  
-## official language
+## official language - Norwegian, Lule Sami, Northern Sami, Southern Sami
 
 
-## interesting trivia
+## interesting trivia - 5085 oil wells
 
 
 
