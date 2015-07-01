@@ -10,5 +10,6 @@ Norwegian
 
 ## interesting trivia
 They love trolls. =) =)
-
+They use the Kroner. .
+Shit is so expensive there. 
 
