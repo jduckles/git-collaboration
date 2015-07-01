@@ -1,14 +1,15 @@
 ##Oman
-## population
+## population: 3,219,000
 
 
-## capital
+## capital: Muscat
 
  
-## official language
+## official language: Arabic 
 
 
-## interesting trivia
+## interesting trivia: Home to the largest ophiolite suite in the world! 
+
 
 
 
