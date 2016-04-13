@@ -1,6 +1,6 @@
 ##Laos
 ## population
-6,803,699
+7,800,000
 
 ## capital
 Vientiane
