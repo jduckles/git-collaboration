@@ -1,14 +1,17 @@
 ##Tuvalu
 ## population
-9,876
+The population of Tuvalu is 10,837 according to the all knowing Wikipedia!
 
 ## capital
-Funafuti
+The capital is Funafuti.
  
 ## official language
-Tuvaluan and English
+Tuvaluan
+(also english is spoken there).
+
 
 ## interesting trivia
-name means "eight standing together", in reference to the eight islands that make up the country
+More to come on interesting trivia.
+
 
 

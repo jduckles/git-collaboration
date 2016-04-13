@@ -1,14 +1,14 @@
 ##Tanzania
-## population
+## population: 43 million
 
 
-## capital
+## capital: Dar-es-salaam
 
  
-## official language
+## official language: Swahili
 
 
-## interesting trivia
+## interesting trivia: Great wildebeast migration takes place here
 
 
 

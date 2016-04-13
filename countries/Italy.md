@@ -1,14 +1,15 @@
 ##Italy
-## Population 59 million
+## population
+61,070,000 (as of July 2014)
 
-
-## Capitol Rome
-
+## capital
+Roma
  
-## official language Italian
+## official language
+Italian
 
-
-## interesting trivia Real balsamic vinegar takes at least 12 years to make
-
-
+## interesting trivia
+Gelato was invented in Florence
+Pizza was invesnted in Naples
+There are hundreds of dialects spoken in Italy.
 

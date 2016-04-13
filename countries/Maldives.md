@@ -1,14 +1,16 @@
-##Maldives
-## population
+## Maldives
+## ========
+
+## population: 341,356  (2014 census)
 
 
-## capital
+## capital: Male
 
  
-## official language
+## official language:  Maldivian (Dhivehi)
 
 
-## interesting trivia
+## interesting trivia:  Traditionally, it was the "King's Island" where the ancient royal dynasties were enthroned.
 
 
 
