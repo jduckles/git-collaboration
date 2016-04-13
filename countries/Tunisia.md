@@ -4,7 +4,7 @@
 
 ## capital
 Tunis
- 
+
 ## official language
 Arabic
 
@@ -12,4 +12,5 @@ Arabic
 Motto: حرية، كرامة، عدالة، نظام
 "Ḥurriyyah, Karama, ‘Adālah, Niẓām"
 
-
+## interesting trivia
+Ruled by the Romans beginning in 150 BC, and was one of the primary granaries of Rome.

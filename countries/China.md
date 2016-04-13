@@ -1,13 +1,12 @@
 ##China
 ## population
-1.3 Billion
+1,367,820,000
 
 ## capital
 Beijing
 
 ## official language
-Chinese 
-
+Chinese
 
 ## interesting trivia
 One of the worlds fastest growing economies
