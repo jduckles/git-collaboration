@@ -4,11 +4,8 @@
 
 ## capital
 Lome
- 
+
 ## official language
 French
 
 ## interesting trivia
-Currency Franc
-
-

@@ -1,18 +1,12 @@
-##France
+##MyOwnLand
 ## population
-66,616,416
-
+100
 
 ## capital
-Paris
-
+SW	
  
 ## official language
-French
-
+English	
 
 ## interesting trivia
-Merde!
-
-
-
+A lot
