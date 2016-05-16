@@ -1,11 +1,11 @@
 ##Tuvalu
-## population
+## population: 9876
 
 
-## capital
+## capital: Funafuti
 
  
-## official language
+## official language: Tuvaluan; English 
 
 
 ## interesting trivia
