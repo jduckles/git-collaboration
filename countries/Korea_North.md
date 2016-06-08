@@ -9,9 +9,9 @@ The capital of North Korea, or Best Korea, as they like to be named is Pyongyang
 The official language, and thus the best language of the whole multiverse, is korean.
 
 ## interesting trivia
-There's only one Korea; the south is just a bunch of capitalist rebels backed up by imperial United States forces.
-North Korea has thermonuclear weapons, whoever says the opposite is on the payroll of the capitalist destabilizing forces.
-Best Korea won the Football World Cup in 2014. Whoever says the opposite will be prosecuted for high treason.
+-There's only one Korea; the south is just a bunch of capitalist rebels backed up by imperial United States forces.
+-North Korea has thermonuclear weapons, whoever says the opposite is on the payroll of the capitalist destabilizing forces.
+-Best Korea won the Football World Cup in 2014. Whoever says the opposite will be prosecuted for high treason.
 
 
 
