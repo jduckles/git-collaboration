@@ -2,13 +2,13 @@
 ## population
 
 
-## capital
+## capital is Luanda
 
  
-## official language
+## official language is Portuguese
 
 
-## interesting trivia
+## Origin of Kizomba music and dancing
 
 
 
