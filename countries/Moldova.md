@@ -15,4 +15,8 @@ The country has a well established wine industry. It has a vineyard area of 147,
 
 Cricova is one of the largest wine cellars in the world, with 120 km (75 mi) of tunnel-like storage galleries.
 
+To dial Moldova by phone, you use the country code +373
+
+According to the CIA World Factbook, Moldova had an internet usage rate of 49.8% in 2015.
+
 
