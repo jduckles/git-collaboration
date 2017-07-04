@@ -9,6 +9,6 @@ Castries
 English
 
 ## interesting trivia
-
+St Lucia has the most can openers per capita of all countries (2015)
 
 
