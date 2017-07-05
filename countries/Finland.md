@@ -1,14 +1,14 @@
 ##Finland
-## population
+## population = 5,486,125
 
 
-## capital
+## capital = Helsinki
 
  
-## official language
+## official language = Finnish
 
 
-## interesting trivia
+## interesting trivia = They were ruled by Sweden for 600 years and so their second offical language is Swedish. 
 
 
 
