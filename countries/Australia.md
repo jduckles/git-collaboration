@@ -4,7 +4,7 @@ Some number
 
 ## capital
 
-Sydney 
+Canberra 
  
 ## official language
 
