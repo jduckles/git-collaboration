@@ -1,6 +1,6 @@
 ##Armenia
 ## population
-
+2,924,816
 
 ## capital
 Yerevan
@@ -8,7 +8,6 @@ Yerevan
  
 ## official language
 Armenian
-
 
 ## interesting trivia
 
