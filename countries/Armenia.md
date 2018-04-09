@@ -3,7 +3,8 @@
 2,924,816
 
 ## capital
-Yerevan 
+Yerevan
+
  
 ## official language
 Armenian
