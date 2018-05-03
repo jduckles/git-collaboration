@@ -1,6 +1,6 @@
 ##Moldova
 ## population
-2014 estimate 	2,913,281
+2018 estimate 	4,041,065
 
 ## capital
 Chișinău
