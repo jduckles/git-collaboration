@@ -7,9 +7,10 @@
 Port Vila
  
 ## official language
-Bislama
-French
-English
+
+* Bislama
+* French
+* English
 
 ## interesting trivia
 Vanuatu gained its independence from France and the United Kingdom in 1980.
