@@ -12,5 +12,7 @@
 
 Bob Marley was born in Jamaica, on February 6th 1945.
 
+![](Bob-Marley.jpg)
+
 
 
