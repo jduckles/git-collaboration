@@ -15,5 +15,5 @@ Port Vila
 ## interesting trivia
 Vanuatu gained its independence from France and the United Kingdom in 1980.
 
-[Source](https://en.wikipedia.org/wiki/Vanuatu)
+[Source Wikipedia](https://en.wikipedia.org/wiki/Vanuatu)
 
