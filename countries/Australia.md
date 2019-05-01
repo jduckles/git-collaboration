@@ -1,7 +1,7 @@
 ##Australia
 ## population
 
-Some number
+25,336,000 
 
 ## capital
 
@@ -15,5 +15,8 @@ English
 
 Like barbyque
 The best country in the world!
+Best salt and vinegar chips
+Values- having a fair go
+
 
 
