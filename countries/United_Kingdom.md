@@ -1,6 +1,7 @@
 ## United_Kingdom
 ## population
 2017 estimate: 66,040,229
+2019 estimate: 66,892,611
 
 ## capital
 London
