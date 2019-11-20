@@ -3,12 +3,14 @@
 
 
 ## capital
-
+####Delhi
  
 ## official language
-
+1. Hindi
+2. URDU
 
 ## interesting trivia
+
 
 
 
