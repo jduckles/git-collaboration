@@ -1,9 +1,9 @@
 ##India
 ## population
-
+**1.3 billion (2017)**
 
 ## capital
-####Delhi
+**Delhi**
  
 ## official language
 1. Hindi
