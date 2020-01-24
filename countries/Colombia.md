@@ -1,11 +1,11 @@
 ##Colombia
-## population
+## population (2019): 48,258,494
 
 
-## capital
+## capital: Bogotá
 
  
-## official language
+## official language: Spanish (Espanol)
 
 
 ## interesting trivia
