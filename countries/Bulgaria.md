@@ -1,5 +1,5 @@
 ##Bulgaria
-## population
+## population 7.05 million
 
 
 ## capital
