@@ -2,8 +2,7 @@
 ## population
 
 
-## capital
-
+## capital: Sucre
  
 ## official language
 
