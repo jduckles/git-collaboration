@@ -1,14 +1,14 @@
-##Myanmar,_{Burma}
-## population
+## Myanmar,_{Burma}
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

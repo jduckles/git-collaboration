@@ -1,14 +1,14 @@
-##Central_African_Rep
-## population
+## Central_African_Rep
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

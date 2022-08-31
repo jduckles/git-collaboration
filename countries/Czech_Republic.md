@@ -1,14 +1,14 @@
-##Czech_Republic
-## population
+## Czech_Republic
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

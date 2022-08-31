@@ -1,14 +1,14 @@
-##Somalia
-## population
+## Somalia
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

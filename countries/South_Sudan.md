@@ -1,14 +1,14 @@
-##South_Sudan
-## population
+## South_Sudan
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

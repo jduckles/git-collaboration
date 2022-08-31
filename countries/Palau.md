@@ -1,14 +1,14 @@
-##Palau
-## population
+## Palau
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

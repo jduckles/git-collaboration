@@ -1,14 +1,14 @@
-## Jamaica
-## population
+##  Jamaica
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 Bob Marley was born in Jamaica, on February 6th 1945.
 

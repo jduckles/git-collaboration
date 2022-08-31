@@ -1,14 +1,14 @@
-##Croatia
-## population
+## Croatia
+##  population
 4.253 million (2013)
 
-## capital
+##  capital
 Zagreb
  
-## official language
+##  official language
 Croatian
 
-## interesting trivia
+##  interesting trivia
 Around 90% of Croatian people declare themselves as Roman Catholics.
 After Ireland, Croatia has the highest emigration rate in the world.
 The national flower is Iris

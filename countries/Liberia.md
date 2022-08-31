@@ -1,14 +1,14 @@
-##Liberia
-## population
+## Liberia
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

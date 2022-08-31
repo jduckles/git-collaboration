@@ -1,14 +1,14 @@
-##Burundi
-## population
+## Burundi
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

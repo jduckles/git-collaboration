@@ -1,14 +1,14 @@
-##Sri_Lanka
-## population
+## Sri_Lanka
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

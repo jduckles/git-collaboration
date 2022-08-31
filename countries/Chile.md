@@ -1,19 +1,19 @@
 # Chile
 
-## population
+##  population
 * 2017 census: 17,574,003
 
-## capital
+##  capital
 Santiago
  
-## official language
+##  official language
 Spanish
 
-## Flag
+##  Flag
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/125px-Flag_of_Chile.svg.png)
 
-## interesting trivia
+##  interesting trivia
 
 Chile is the location of the world's largest swimming pool.  
 * length: 914 meters

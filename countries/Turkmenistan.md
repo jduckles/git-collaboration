@@ -2,25 +2,25 @@
 
 ---------------------------------------------
 
-## Population
+##  Population
 
 The population of Turkmenistan is 5.6 million people.
 
 -----------------------------------------------
 
-## Capital
+##  Capital
 
 The capital of Turkmenistan is T. The capital city of Turkmenistan is Ashgabat
  
  --------------------------------------------
 
-## Official Language
+##  Official Language
 
 The official language of Turkmenistan is Turkmen
 
 ------------------------------------------
 
-## Interesting Trivia
+##  Interesting Trivia
 
 * The capital of Turkmenistan, Ashgabat, has the Guiness World Record for the highest density of marble buildings in the world, and another Guiness World Record for the largest indoor ferris wheel.
 * The current president of Turkmenistan is the only dictator who was originally a dentist.

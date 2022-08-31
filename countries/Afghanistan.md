@@ -1,15 +1,15 @@
 # Afghanistan
 
-## population
+##  population
 * 2019 estimate: 32,225,560
 
-## capital
+##  capital
 * Kabul
  
-## official language
+##  official language
 * Pashto, Dari
 
-## interesting trivia
+##  interesting trivia
 Alexander the Great captured the city of Herat in 330BC and built its ancient citadel. <sup>1</sup>
 
 

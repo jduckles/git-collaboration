@@ -1,19 +1,19 @@
-## Belarus
+##  Belarus
 
-## population
+##  population
 
 9.5-millon
 
-## capital
+##  capital
 
 Minsk
  
-## official language
+##  official language
 
 Belarusian
 Russian
 
-## interesting trivia
+##  interesting trivia
 
 The national hockey team had a fourth place finish at the Salt Lake City Olympics.
 

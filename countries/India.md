@@ -1,17 +1,17 @@
-##India
-## population
+## India
+##  population
 **1.3 billion (2017)**
 
-## capital
+##  capital
 **Delhi**
  
-## official language
+##  official language
 1. Hindi
 2. URDU
 
-## interesting trivia
+##  interesting trivia
 
-## FLAG
+##  FLAG
 ![FLAG](image.png)
 
 

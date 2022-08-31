@@ -1,14 +1,14 @@
-##Rwanda
-## population
+## Rwanda
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

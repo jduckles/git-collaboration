@@ -1,15 +1,15 @@
 # Gambia
 
-## population
+##  population
 2.8 million
 
-## capital
+##  capital
 Banjul
  
-## official language
+##  official language
 The official language is English but there are also several tribal languages including Mandinka and Wolof
 
-## interesting trivia
+##  interesting trivia
 * The total land area of Gambia is 4,361 square miles (11,295 square kilometres).
 * This makes Gambia the smallest country in mainland Africa.
 * Gambia's population was 2.101 million in 2017.

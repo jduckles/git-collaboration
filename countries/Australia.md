@@ -1,17 +1,17 @@
-##Australia
-## population
+## Australia
+##  population
 
 Some number
 
-## capital
+##  capital
 
 Canberra 
  
-## official language
+##  official language
 
 English
 
-## interesting trivia
+##  interesting trivia
 
 Like barbyque
 The best country in the world!

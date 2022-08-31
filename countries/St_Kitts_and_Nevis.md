@@ -1,14 +1,14 @@
-##St_Kitts_and_Nevis
-## population
+## St_Kitts_and_Nevis
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

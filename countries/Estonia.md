@@ -1,14 +1,14 @@
-##Estonia
-## population
+## Estonia
+##  population
 1318705
 
-## capital
+##  capital
 Tallinn
  
-## official language
+##  official language
 Estonian...???!
 
-## interesting trivia
+##  interesting trivia
 The parlimentary body of government is called the Riigikogu
 
 

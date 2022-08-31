@@ -1,15 +1,15 @@
-##Samoa
-## population
+## Samoa
+##  population
 194,320 (2012 estimate)
 
-## capital
+##  capital
 Apia
  
-## official language
+##  official language
 Samoan
 English
 
-## interesting trivia
+##  interesting trivia
 
 Independence from New Zealand January 1, 1962
 

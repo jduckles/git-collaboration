@@ -1,15 +1,15 @@
-##Barbados
-## population
+## Barbados
+##  population
 Density = 660/km2
 
-## capital
+##  capital
 Bridgetown
  
-## official language
+##  official language
 Official languages	English
 Recognised regional languages	Bajan
 
-## interesting trivia
+##  interesting trivia
 Local traditions include afternoon tea and cricket
 
 Apr Dry weather, and crowds start to dissipate.

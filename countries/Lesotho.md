@@ -1,15 +1,15 @@
-##Lesotho
-## population
+## Lesotho
+##  population
 2.2 million 
 
-## capital
+##  capital
 Maseru
  
-## official language
+##  official language
 Sesotho
 English
 
-## interesting trivia
+##  interesting trivia
 
 
 

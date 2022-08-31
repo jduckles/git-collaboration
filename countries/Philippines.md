@@ -1,14 +1,14 @@
-##Philippines
-## population
+## Philippines
+##  population
 100,998,376
 
-## capital
+##  capital
 Manila
  
-## official language
+##  official language
 Filipino (official; based on Tagalog) and English (official)
 
-## interesting trivia
+##  interesting trivia
 The Philippines is made up of 7,107 islands.
 
 

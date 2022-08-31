@@ -1,14 +1,14 @@
-##Kuwait
-## population
+## Kuwait
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

@@ -1,17 +1,17 @@
-## Canada
-## population
+##  Canada
+##  population
 
 ~37,000,000
 
-## capital
+##  capital
 
 Ottawa
  
-## official language
+##  official language
 
 English & French
 
-## interesting trivia
+##  interesting trivia
 
 The longest highway in the World is the Trans-Canada Highway between Victoria, BC and St. John's, NF with a length of 7,821km 
 

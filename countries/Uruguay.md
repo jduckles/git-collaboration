@@ -1,14 +1,14 @@
-##Uruguay
-## population
+## Uruguay
+##  population
 3,324,460
 
-## capital
+##  capital
 Montevideo
  
-## official language
+##  official language
 Spanish
 
-## interesting trivia
+##  interesting trivia
 Home to Luis Suarez, professional footballer (and biter)
 
 

@@ -1,14 +1,14 @@
-##Papua_New_Guinea
-## population
+## Papua_New_Guinea
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

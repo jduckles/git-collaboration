@@ -1,14 +1,14 @@
-##Sao_Tome_and_Principe
-## population
+## Sao_Tome_and_Principe
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

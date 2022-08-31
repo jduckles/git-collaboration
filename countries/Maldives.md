@@ -1,14 +1,14 @@
-##Maldives
-## population
+## Maldives
+##  population
 393,253
 
-## capital
+##  capital
 Male
  
-## official language
+##  official language
 Maldivian (Dhivehi)
 
-## interesting trivia
+##  interesting trivia
 298 sq m
 Drives on the left
 Situated in the Arabian Sea

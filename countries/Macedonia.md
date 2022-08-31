@@ -1,14 +1,14 @@
-##Macedonia
-## population
+## Macedonia
+##  population
 2.078 million
 
-## capital
+##  capital
 Skopje
  
-## official language
+##  official language
 Macedonian
 
-## interesting trivia
+##  interesting trivia
 https://en.wikipedia.org/wiki/Republic_of_Macedonia
 Macedonia is a landlocked Balkan nation of mountains, lakes and ancient towns with Ottoman and European architecture
 

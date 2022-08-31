@@ -1,14 +1,14 @@
-##Mexico
-## population
+## Mexico
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

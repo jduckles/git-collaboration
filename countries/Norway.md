@@ -1,14 +1,14 @@
-##Norway
-## population
+## Norway
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

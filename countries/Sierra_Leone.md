@@ -1,14 +1,14 @@
-##Sierra_Leone
-## population
+## Sierra_Leone
+##  population
 7,075,641
 
-## capital
+##  capital
 Freetown
  
-## official language
+##  official language
 English
 
-## interesting trivia
+##  interesting trivia
 Who did the train installation published in "Women are Heroes" in this country?
 What is Sierra Leone moto?
 

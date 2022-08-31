@@ -1,14 +1,14 @@
-##Cape_Verde
-## population
+## Cape_Verde
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

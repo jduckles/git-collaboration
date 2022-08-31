@@ -1,14 +1,14 @@
-##Equatorial_Guinea
-## population
+## Equatorial_Guinea
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

@@ -1,15 +1,15 @@
-## Micronesia
-## population
+##  Micronesia
+##  population
 
 104,937 (2016)
 
-## capital
+##  capital
 Palikir
  
-## official language
+##  official language
 English 
 
-## interesting trivia
+##  interesting trivia
 
 Thousands of small islands in the western Pacific Ocean. 
 Captured by Japan in World War I 

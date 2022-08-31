@@ -1,13 +1,13 @@
-##Liechtenstein
-## population
+## Liechtenstein
+##  population
 36.925
 
-## capital
+##  capital
 Vaduz
  
-## official language
+##  official language
 German
 
-## interesting trivia
+##  interesting trivia
 Officially the Principality of Liechtenstein is a doubly landlocked German-speaking microstate in Central Europe.
 

@@ -1,14 +1,14 @@
-##Thailand
-## population
+## Thailand
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

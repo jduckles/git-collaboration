@@ -1,14 +1,14 @@
-##Mauritania
-## population
+## Mauritania
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

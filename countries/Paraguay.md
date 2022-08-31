@@ -1,14 +1,14 @@
-##Paraguay
-## population
+## Paraguay
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

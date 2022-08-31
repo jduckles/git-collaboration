@@ -1,14 +1,14 @@
-##Ivory_Coast
-## population
+## Ivory_Coast
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

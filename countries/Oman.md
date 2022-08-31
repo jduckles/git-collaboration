@@ -1,14 +1,14 @@
-##Oman
-## population
+## Oman
+##  population
 5 million
 
-## capital
+##  capital
 Muscat
  
-## official language
+##  official language
 Arabic and Swahili
 
-## interesting trivia
+##  interesting trivia
 The capital of Oman used to be Zanzibar
 
 

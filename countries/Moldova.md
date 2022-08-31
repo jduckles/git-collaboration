@@ -1,14 +1,14 @@
-##Moldova
-## population
+## Moldova
+##  population
 2018 estimate 	4,041,065
 
-## capital
+##  capital
 Chișinău
  
-## official language
+##  official language
 Romanian
 
-## interesting trivia
+##  interesting trivia
 Moldova is known for its wines. For many years viticulture and winemaking in Moldova were the general occupation of the population. Evidence of this is present in historical memorials and documents, folklore, and the spoken language of Moldova, which is Romanian.
 
 The country has a well established wine industry. It has a vineyard area of 147,000 hectares (360,000 acres), of which 102,500 ha (253,000 acres) are used for commercial production. Most of the country's wine production is made for export. Many families have their own recipes and strands of grapes that have been passed down through the generations.

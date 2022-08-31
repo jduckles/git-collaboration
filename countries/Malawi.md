@@ -1,14 +1,14 @@
-##Malawi
-## population
+## Malawi
+##  population
 12.7 Million
 
-## capital
+##  capital
 Lilongwe
  
-## official language
+##  official language
 Chichewa
 
-## interesting trivia
+##  interesting trivia
 Lake Malawi is slightly smaller than the entire country of Malawi
 
 

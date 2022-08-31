@@ -1,15 +1,15 @@
-##Bhutan
-## population
+## Bhutan
+##  population
 742,737 (2012 estimate)
 
-## capital
+##  capital
 Thimphu
  
-## official language
+##  official language
 Dzongkha
 
 
-## interesting trivia
+##  interesting trivia
 Much of the history is not clear, many records were burned in a fire in the ancient capital of Punakha.
 
 

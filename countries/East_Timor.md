@@ -1,14 +1,14 @@
-##East_Timor
-## population
+## East_Timor
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

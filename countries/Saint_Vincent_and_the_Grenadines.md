@@ -1,14 +1,14 @@
-##Saint_Vincent_and_the_Grenadines
-## population
+## Saint_Vincent_and_the_Grenadines
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

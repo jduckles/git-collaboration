@@ -1,16 +1,16 @@
-##Comoros
-## population
+## Comoros
+##  population
 724 300 hab. (2012)
 
-## capital
+##  capital
 Moroni
  
-## official languages
+##  official languages
 Árabe
 Suajili
 French
 
-## interesting trivia
+##  interesting trivia
 The name "Comoros" derives from the Arabic word قمر qamar ("moon").
 
 

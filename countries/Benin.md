@@ -1,14 +1,14 @@
-##Benin
-## population
+## Benin
+##  population
 10.32 million (2013)
 
-## capital
+##  capital
 Porto-Novo
  
-## official language
+##  official language
 French
 
-## interesting trivia
+##  interesting trivia
 The capital of Benin is Porto-Novo, but the seat of government is in Cotonou
 
 

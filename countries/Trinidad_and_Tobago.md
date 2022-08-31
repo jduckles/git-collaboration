@@ -1,17 +1,17 @@
-##Trinidad_and_Tobago
-## population 
+## Trinidad_and_Tobago
+##  population 
 
 100000000000000000000000000000000000000000000000000000000000
 
-## capital
+##  capital
 
 Port of Spain
  
-## official language
+##  official language
 
 English
 
-## interesting trivia
+##  interesting trivia
 
 Was once a Spanish colony along with Venezuela
 

@@ -1,14 +1,14 @@
-##Andorra
-## Population
+## Andorra
+##  Population
 76,177 (2019 Estimate, Wikipedia)
 
-## Capital
+##  Capital
 Andorra la Vella
  
-## Official Language
+##  Official Language
 Catalan
 
-## Interesting Trivia
+##  Interesting Trivia
 Nestled between France and Spain
 
 

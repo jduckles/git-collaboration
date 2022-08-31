@@ -1,16 +1,16 @@
-## Belize
-## population
+##  Belize
+##  population
 
 374,681
 
-## capital
+##  capital
 
 Belmopan
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

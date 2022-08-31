@@ -1,15 +1,15 @@
-## Iceland
-## population
+##  Iceland
+##  population
 348,580 
 
 
-## capital
+##  capital
 Reykjavík
  
-## official language
+##  official language
 Icelandic
 
-## interesting trivia
+##  interesting trivia
 
 There is a phallological museum in Reykjavík, It contains a collection of penises from over 200 different mammals, including one from a man. (https://en.wikipedia.org/wiki/Icelandic_Phallological_Museum)
 

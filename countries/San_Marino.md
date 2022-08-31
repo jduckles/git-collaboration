@@ -1,15 +1,15 @@
-##San_Marino
+## San_Marino
 Tiny country
-## population
+##  population
 32,576
 
-## capital
+##  capital
 
  Dogana
-## official language
+##  official language
 Italian
 
-## interesting trivia
+##  interesting trivia
 
 Also known as the Most Serene Republic of San Marino
 

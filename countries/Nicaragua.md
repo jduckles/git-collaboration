@@ -1,14 +1,14 @@
-##Nicaragua
-## population
+## Nicaragua
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

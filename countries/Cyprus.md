@@ -1,14 +1,14 @@
-##Cyprus
-## population
+## Cyprus
+##  population
 1,141,166.4
 
-## capital
+##  capital
 Nicosia
  
-## official language
+##  official language
 Cyprutian
 
-## interesting trivia
+##  interesting trivia
 National animal is the mouflon
 
 

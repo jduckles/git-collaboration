@@ -1,15 +1,15 @@
-##Armenia
-## population
+## Armenia
+##  population
 2,924,816
 
-## capital
+##  capital
 Yerevan
 
  
-## official language
+##  official language
 Armenian
 
-## interesting trivia
+##  interesting trivia
 
 
 

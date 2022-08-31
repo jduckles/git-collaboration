@@ -1,14 +1,14 @@
-##Greece
-## population
+## Greece
+##  population
 10,750,000
 
-## capital
+##  capital
 Athens
  
-## official language
+##  official language
 Greek
 
-## interesting trivia
+##  interesting trivia
 
 
 

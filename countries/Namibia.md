@@ -1,14 +1,14 @@
-##Namibia
-## population
+## Namibia
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

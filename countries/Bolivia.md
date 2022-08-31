@@ -1,13 +1,13 @@
-##Bolivia
-## population
+## Bolivia
+##  population
 
 
-## capital: Sucre
+##  capital: Sucre
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

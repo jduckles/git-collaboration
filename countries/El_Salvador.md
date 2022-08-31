@@ -1,14 +1,14 @@
-##El_Salvador
-## population
+## El_Salvador
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

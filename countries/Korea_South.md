@@ -1,14 +1,14 @@
-##Korea_South
-## population
+## Korea_South
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

@@ -1,18 +1,18 @@
-## Vanuatu
+##  Vanuatu
 
-## population
+##  population
 272,459 (2016 census)
 
-## capital
+##  capital
 Port Vila
  
-## official language
+##  official language
 
 * Bislama
 * French
 * English
 
-## interesting trivia
+##  interesting trivia
 Vanuatu gained its independence from France and the United Kingdom in 1980.
 
 [Source Wikipedia](https://en.wikipedia.org/wiki/Vanuatu)

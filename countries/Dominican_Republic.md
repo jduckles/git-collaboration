@@ -1,14 +1,14 @@
-##Dominican_Republic
-## population
+## Dominican_Republic
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

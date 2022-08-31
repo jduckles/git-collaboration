@@ -1,14 +1,14 @@
-##Costa_Rica
-## population
+## Costa_Rica
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

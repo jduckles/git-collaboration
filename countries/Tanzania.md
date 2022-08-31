@@ -1,14 +1,14 @@
-##Tanzania
-## population
+## Tanzania
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

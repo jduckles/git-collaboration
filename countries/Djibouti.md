@@ -1,15 +1,15 @@
-##Djibouti
-## population
+## Djibouti
+##  population
 828,324
 
-## capital
+##  capital
 Djibouti City
  
-## official language
+##  official language
 French, Arabic
 
 
-## interesting trivia
+##  interesting trivia
 Danakil Desert makes up most of Djibouti and is located north of the Great Rift Valley
 
 

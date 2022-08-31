@@ -1,14 +1,14 @@
-##Kazakhstan
-## population
+## Kazakhstan
+##  population
 100
 
-## capital
+##  capital
 Big City
  
-## official language
+##  official language
 Kazakhastanian
 
-## interesting trivia
+##  interesting trivia
 stan means country
 
 

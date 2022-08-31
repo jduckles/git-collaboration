@@ -1,14 +1,14 @@
-##Solomon_Islands
-## population
+## Solomon_Islands
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

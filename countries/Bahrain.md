@@ -1,14 +1,14 @@
-##Bahrain
-## population
+## Bahrain
+##  population
 1.377 million
 
-## capital
+##  capital
 Manama
  
-## official language
+##  official language
 Arabic
 
-## interesting trivia
+##  interesting trivia
 Dilmun civilisation lived there
 
 

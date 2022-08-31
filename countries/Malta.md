@@ -1,14 +1,14 @@
-##Malta
-## population
+## Malta
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

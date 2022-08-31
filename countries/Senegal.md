@@ -1,14 +1,14 @@
-##Senegal
-## population
+## Senegal
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

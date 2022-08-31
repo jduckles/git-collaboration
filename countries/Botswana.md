@@ -1,16 +1,16 @@
-##Botswana
-## population
+## Botswana
+##  population
 2,155,784
 
-## capital
+##  capital
 Gaborone
  
-## official language
+##  official language
 Setswana
 English
 
 
-## interesting trivia
+##  interesting trivia
 The cuisine of Botswana is unique but also shares some characteristics with other cuisine of Southern Africa. Examples of Botswana food are pap, boerewors, samp, vetkoek and mopani worms. Foods unique to Botswana include seswaa, heavily salted mashed-up meat.
 
 

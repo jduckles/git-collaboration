@@ -1,16 +1,16 @@
-##Laos
+## Laos
 Laos is a Southeast Asian country traversed by the Mekong River and known for its mountainous terrain, French colonial architecture, hill tribe settlements and Buddhist monasteries. Vientiane, the laid-back capital, is the site of That Luang, a reliquary reportedly housing the Buddha’s breastbone, plus the Patuxai war memorial and Talat Sao (Morning Market), a shopping complex jammed with food, clothes and craft stalls.
 
-## population
+##  population
 6.77 million (2013) World Bank
 
-## capital
+##  capital
 Vientiane
  
-## official language
+##  official language
 Lao
 
-## interesting trivia
+##  interesting trivia
 The people of Laos are often considered by their altitudinal distribution (lowlands, midlands and upper high lands) as this approximates ethnic groups.
 
 According to the anti-corruption non-governmental organisation Transparency International, Laos remains one of the most corrupt countries in the world. 

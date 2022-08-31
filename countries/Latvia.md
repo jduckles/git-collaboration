@@ -1,14 +1,14 @@
-##Latvia
-## population
+## Latvia
+##  population
 
 
-## capital
+##  capital
 
  
-## official language
+##  official language
 
 
-## interesting trivia
+##  interesting trivia
 
 
 

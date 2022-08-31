@@ -1,14 +1,14 @@
-##Chad
-## population
+## Chad
+##  population
 14.04 million (2015)
 
-## capital
+##  capital
 N'Djamena
  
-## official language
+##  official language
 French, Arabic
 
-## interesting trivia
+##  interesting trivia
 Calling code	+235
 
 

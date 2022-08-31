@@ -1,14 +1,14 @@
-##Argentina
-## population
+## Argentina
+##  population
 44,938,712
 
-## capital
+##  capital
 Buenos Aires
  
-## official language
+##  official language
 Spanish
 
-## interesting trivia
+##  interesting trivia
 Came third in the 2007 Rugby World Cup.
 
 
