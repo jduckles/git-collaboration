@@ -18,3 +18,5 @@ According to the anti-corruption non-governmental organisation Transparency Inte
 An ancient human skull was recovered from the Tam Pa Ling cave in the Annamite Mountains in northern Laos; the skull is at least 46,000 years old, making it the oldest modern human fossil found to date in Southeast Asia.
 
 In 1993 the Laos government set aside 21% of the nation's land area for habitat conservation preservation.
+
+From May to October, Laos has a rainy season. 
