@@ -1,7 +1,7 @@
 ##  Brazil
 
 ##  population
-203.9 million
+212.6 million (updated 2022)
 
 ##  capital
 Brasilia
@@ -11,6 +11,7 @@ Portugues
 
 ##  interesting trivia
 Dance carnaval
+A Brazilian named Alberto Santos-Dumont is widely held to have invented the first aeroplane, preceeding the Wright brothers!
 
 
 
